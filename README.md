@@ -12,6 +12,8 @@ Fan art is welcomed in our dm's or the [Support Server](https://discord.gg/uNKfB
 
 # Logos
 
+
+[High Res](Cache High Res.png)
 ![High Res](https://github.com/Cache-Bot/Cache-Branding/blob/main/Cache%20High%20Res.png/image.jpg?raw=true)
 
 ![Banner](https://github.com/Cache-Bot/Cache-Branding/blob/main/Cache%20Banner.png/image.jpg?raw=true)

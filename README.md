@@ -8,7 +8,7 @@ You may not use our brand in commercial use without prior consent from us (the d
 
 # Fan Art
 
-Fan art is welcomed in our dm's or the (Support Server)[https://discord.gg/uNKfBdQHUx]
+Fan art is welcomed in our dm's or the [Support Server](https://discord.gg/uNKfBdQHUx)
 
 # Logos
 

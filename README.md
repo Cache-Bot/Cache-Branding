@@ -1,7 +1,6 @@
 # Our Branding
 
-The original logo was made by The_Immortal#3527 and the high resoloution remake was made by │Luis Pavel│#8538, the banner was made by │Luis Pavel│#8538 and all credit should be redirected to the original owner
-
+The original logo was made by [The_Immortal#3527](https://github.com/Immortal-3527) and the high resoloution remake was made by [│Luis Pavel│#8538](https://github.com/LuisPavelA), the banner was made by [│Luis Pavel│#8538](https://github.com/LuisPavelA) and all credit should be redirected to the original owner
 # Commercial Use
 
 You may not use our brand in commercial use without prior consent from us (the developers and owners), you may not remake our brand to be used in commercial or personal use.

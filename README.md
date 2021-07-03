@@ -5,7 +5,7 @@ The original logo was made by [The_Immortal#3527](https://github.com/Immortal-35
 
 You may not use our brand in commercial use without prior consent from us (the developers and owners), you may not remake our brand to be used in commercial or personal use.
 
-### If you have more questions create an issue on [Our Issue Repositoriy](https://github.com/Cache-Bot/Issues)
+### If you have more questions create an issue on [Our Issue Repositoriy](https://github.com/Cache-Bot/Issues#issues)
 
 # Fan Art
 
